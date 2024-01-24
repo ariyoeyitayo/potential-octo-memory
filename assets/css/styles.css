@@ -243,6 +243,9 @@ section{
   .right img {
     margin: 0 2rem;
   }
+  .btn1{
+    margin: 1rem;
+  }
 }
 /* About */
 .about-head {
@@ -284,7 +287,7 @@ section{
     margin: 1rem;
   }
   .about-center .top .t-left img {
-    margin: 3rem 5.5rem;
+    margin: 3rem;
     text-align: center;
   }
 }
@@ -375,6 +378,9 @@ section{
   }
   .card-overlay {
     padding: 2.5rem;
+  }
+  .card{
+    height: 150%;
   }
 }
 
