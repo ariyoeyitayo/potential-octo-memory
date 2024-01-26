@@ -375,12 +375,16 @@ section{
 @media (max-width: 768px) {
   .services-center {
     grid-template-columns: repeat(1, minmax(0, 1fr));
+    padding: 0 1rem;
   }
   .card-overlay {
     padding: 2.5rem;
   }
   .card{
     height: 150%;
+  }
+  .services-center .card .card-overlay{
+    padding: 6rem 2rem;
   }
 }
 
